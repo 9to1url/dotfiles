@@ -17,7 +17,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 ```
 
-## install other plug ins
+## use plug to install other plugins
 launch vim, and run:
 ```
 :PlugInstall
@@ -27,4 +27,4 @@ restart vim
 :CocInstall coc-rust-analyzer
 ```
 
-### done, enjoy your Rust coding with vim
+## Done, enjoy your Rust coding with vim
