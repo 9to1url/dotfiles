@@ -6,6 +6,7 @@ rustup install rust nightly
 ```
 
 ## download .vimrc file to home folder
+** backup your existing one FIRST! **
 
 ## install vim plug
 ```shell
